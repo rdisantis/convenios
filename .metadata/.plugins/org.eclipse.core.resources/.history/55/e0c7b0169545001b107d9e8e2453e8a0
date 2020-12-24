@@ -1,0 +1,5 @@
+package cl.decalink.tgr.convenios.ejb.session.stateless.consultarexclusiones;
+
+public class consultarexclusionesBean {
+
+}

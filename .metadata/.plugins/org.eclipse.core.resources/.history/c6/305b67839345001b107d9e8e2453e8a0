@@ -1,0 +1,5 @@
+package cl.decalink.tgr.convenios.ejb.entity.persona;
+
+public class personaHome {
+
+}
