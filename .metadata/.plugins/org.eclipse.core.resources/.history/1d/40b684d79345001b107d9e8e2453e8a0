@@ -1,5 +1,0 @@
-package cl.decalink.tgr.convenios.ejb.session.stateful.sesionconvenios;
-
-public class SessionConveniosBean {
-
-}

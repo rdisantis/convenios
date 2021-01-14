@@ -1,10 +1,10 @@
 <%@ page import="java.io.*,java.util.*,java.util.Date,java.text.NumberFormat,java.rmi.*,javax.rmi.*,javax.naming.*,java.sql.*,javax.ejb.*"%>
-<%@ page import="cl.decalink.tgr.convenios.ejb.entity.persona.*,cl.decalink.tgr.convenios.StringExt"%>
-<%@ page import="cl.decalink.tgr.convenios.ejb.session.stateful.generapropuestainternet.*"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.persona.*,cl.decalink.tgr.convenios.deudas.StringExt"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.generapropuestainternet.*"%>
 <%@ page import="cl.decalink.tgr.convenios.deudas.DeudaWeb"%>
-<%@ page import="cl.decalink.tgr.convenios.sesion.Perfil"%>
-<%@ page import="cl.decalink.tgr.convenios.ejb.session.stateful.sesionconvenios.*"%>
-<%@ page import="cl.decalink.tgr.convenios.ejb.session.stateless.consultarexclusiones.*"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.Perfil"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.sesionconvenios.*"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.consultarexclusiones.*"%>
 <%@ page import="cl.tesoreria.admin.ejb.session.*"%>
 <%@ page import="cl.tesoreria.busnmodel.*"%>
 <%@ page import="lecturaconfig.*"%>

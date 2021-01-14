@@ -1,8 +1,8 @@
 <%@ page import="java.io.*,java.util.*,java.rmi.*,javax.rmi.*"%>
 <%@ page import="javax.naming.*,java.sql.*,javax.ejb.*"%>
-<%@ page import="cl.decalink.tgr.convenios.ejb.entity.persona.*"%>
-<%@ page import="cl.decalink.tgr.convenios.ejb.session.stateless.consultarexclusiones.*"%>
-<%@ page import="cl.decalink.tgr.convenios.ejb.session.stateful.sesionconvenios.*"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.persona.*"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.consultarexclusiones.*"%>
+<%@ page import="cl.decalink.tgr.convenios.deudas.sesionconvenios.*"%>
 <%@ page import="cl.tesoreria.admin.ejb.session.*"%>
 <%@ page import="cl.tesoreria.busnmodel.*"%>
 <%@ page import="lecturaconfig.*"%>

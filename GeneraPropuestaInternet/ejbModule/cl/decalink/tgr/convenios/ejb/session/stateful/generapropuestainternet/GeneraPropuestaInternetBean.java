@@ -3758,7 +3758,7 @@ System.out.println("VER FLAG transitoria ----> "+sessionGeneraPropuesta.getRefor
 	          setCodCuotaContado(new Long(vCodCuota).longValue());
 
 	          connection = this.getConnection();
-	          call = connection.prepareCall("{? = call CONVENIOSINTERNET.INSERTACONTADO(?,?,?,?,?,?,?,?)}");
+	          call = connection.prepareCall("{? = call CONVENIOSINTERNET.INSERTACONTADO(,?,?,?,?,?,?,?)}");
 	          call.registerOutParameter(1,java.sql.Types.VARCHAR);
 
 	          call.setString(2, vFechaPago);
