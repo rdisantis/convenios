@@ -1,3 +1,7 @@
 eclipse.preferences.version=1
 encoding//src/cl/decalink/tgr/convenios/ReformaTributariaOuput.java=UTF-8
+encoding//src/cl/decalink/tgr/convenios/cuotas/Cuotas.java=UTF-8
+encoding//src/cl/decalink/tgr/convenios/cuotas/NumeroCuotas.java=UTF-8
 encoding//src/cl/decalink/tgr/convenios/deudas/DeudaWeb.java=UTF-8
+encoding//src/cl/decalink/tgr/convenios/deudas/Deudas.java=UTF-8
+encoding//src/cl/decalink/tgr/convenios/propuestas/ConvenioInternet.java=UTF-8
